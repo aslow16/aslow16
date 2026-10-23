@@ -1,0 +1,26 @@
+{
+  "title": "Népal : un drapeau, une leçon de géométrie",
+  "country": "Népal",
+  "status": "draft",
+  "source_notes": "Brouillon : aucune source candidate n’a pu être consultée. Britannica répond 403, le serveur gouvernemental 503, et les alternatives sont refusées par le proxy. Voir sources/nepal-verification-attempts.md. Ne pas publier avant vérification. Les illustrations sont des schémas simplifiés, pas des reproductions officielles.",
+  "sources": [],
+  "candidate_sources": [
+    {"url": "https://www.britannica.com/topic/flag-of-Nepal", "purpose": "Vérifier la forme, les couleurs et les symboles du drapeau."},
+    {"url": "https://lawcommission.gov.np/", "purpose": "Retrouver le texte de la Constitution du Népal et son annexe sur la construction du drapeau ; URL du document exact à établir."}
+  ],
+  "verified_claims": [],
+  "claims_to_verify": [
+    "Le drapeau comporte deux formes triangulaires superposées.",
+    "Son fond est rouge cramoisi et sa bordure bleue.",
+    "Une lune blanche apparaît en haut et un soleil blanc en bas.",
+    "La Constitution du Népal décrit sa construction géométrique."
+  ],
+  "media_rights": "Schémas et cartes typographiques originaux produits par le générateur local. Aucune musique ni média de tiers. L’aperçu utilise la synthèse française eSpeak NG livrée avec piper-tts 1.8.0, sans modèle neuronal SIWIS. Voir CREDITS.md.",
+  "scenes": [
+    {"text": "Un drapeau, ce n’est pas forcément un rectangle. Regardez celui du Népal : sa silhouette est formée de deux triangles superposés.", "visual": "triangles", "heading": "DEUX TRIANGLES"},
+    {"text": "Son fond est rouge cramoisi, avec une bordure bleue. Ces deux couleurs permettent déjà de reconnaître sa silhouette très particulière.", "visual": "colors", "heading": "ROUGE ET BLEU"},
+    {"text": "À l’intérieur, deux symboles blancs : une lune dans la partie supérieure, et un soleil dans la partie inférieure.", "visual": "symbols", "heading": "LUNE ET SOLEIL"},
+    {"text": "Mais le plus surprenant est ailleurs : la Constitution du pays décrit comment construire ce drapeau, à l’aide d’instructions géométriques.", "visual": "geometry", "heading": "UNE CONSTRUCTION PRÉCISE"},
+    {"text": "Ce symbole national est donc aussi un exercice de géométrie. Une autre façon de découvrir un pays, simplement en observant son drapeau.", "visual": "triangles", "heading": "OBSERVER LE MONDE"}
+  ]
+}
