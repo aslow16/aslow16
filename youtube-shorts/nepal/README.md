@@ -4,10 +4,11 @@ Démonstration de 35 secondes avec voix synthétique française provisoire et sc
 
 ## Lire ou télécharger la vidéo
 
-- [Vidéo compatible 720p — télécharger le MP4](nepal-apercu.mp4?raw=true)
-- [Vidéo originale 1080p — télécharger le MP4](nepal-1080p.mp4?raw=true)
+- [Télécharger directement la vidéo compatible 720p](https://raw.githubusercontent.com/aslow16/aslow16/master/youtube-shorts/nepal/nepal-apercu.mp4)
+- [Ouvrir la page GitHub du fichier 720p](https://github.com/aslow16/aslow16/blob/master/youtube-shorts/nepal/nepal-apercu.mp4)
+- [Télécharger directement la vidéo originale 1080p](https://raw.githubusercontent.com/aslow16/aslow16/master/youtube-shorts/nepal/nepal-1080p.mp4)
 
-Si GitHub affiche seulement la fiche du fichier, utilisez le lien de téléchargement du fichier brut. Les fichiers sont de vrais MP4 H.264/AAC, avec le son inclus.
+Le lien direct permet de récupérer le fichier MP4. Si le navigateur le télécharge, ouvrez ensuite ce fichier avec votre lecteur vidéo habituel. Sur la page GitHub du fichier, vous pouvez également utiliser le téléchargement du fichier brut. Les fichiers sont de vrais MP4 H.264/AAC, avec le son inclus.
 
 ## Contenu du dossier
 
